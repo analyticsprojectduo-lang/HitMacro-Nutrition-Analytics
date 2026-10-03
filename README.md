@@ -67,6 +67,7 @@ The interactive Power BI dashboard provides a visual comparison of nutrition con
 * Fibre
 * Fat
 * Carbohydrates
+![HitMacro Power BI Dashboard](powerbi/Dashboard.pdf)
 
 ## Data Analysis
 
