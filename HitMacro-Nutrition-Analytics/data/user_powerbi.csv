@@ -1,0 +1,18 @@
+user_id,name,age,height_cm,weight_kg,gender,calorie_deficit_opted,bmi,bmr,activity_level,activity desc,activity factor,tdee,daily_calorie_target,daily_protein_target_g,daily_fibre_target_g,daily_fat_target_g,daily_carb_target_g,bmi_category
+HM001,Abilasha,30,152,60,Female,Y,25.96952909,1239.0,Moderately active ,exercise 3–5 days/week,1.55,1920.45,1536,85,22,38,85,Overweight
+HM002,Sindhu,30,152,60,Female,Y,25.96952909,1239.0,Lightly active, exercise 1–3 days/week,1.375,1703.625,1363,122,19,54,122,Overweight
+HM003,Sundar,28,165,68,Male,Y,24.97704316,1576.25,Moderately active ,exercise 3–5 days/week,1.55,2443.1875,1955,122,27,85,190,Normal
+HM004,Sanjay,28,165,68,Male,Y,24.97704316,1576.25,Very active,exercise 6–7 days/week,1.725,2719.03125,2175,190,30,63,143,Normal
+HM005,Manudheeran,5,110,19,Male,N,15.70247934,857.5,Extremely active, very hard training/physical job,1.9,1629.25,1629,143,23,29,65,Under 18
+HM006,Mathimei,5,108,18,Female,N,15.43209877,669.0,Moderately active , little/no exercise,1.55,1036.95,1037,65,15,37,82,Under 18
+HM007,Oviyan,5,109,19,Male,N,15.99191987,851.25,Moderately active , little/no exercise,1.55,1319.4375,1319,82,18,39,87,Under 18
+HM008,Vijaya,55,155,68,Female,Y,28.30385016,1212.75,Sedentary , little/no exercise,1.2,1455.3,1164,87,16,44,98,Overweight
+HM009,Sekar,63,160,67,Male,Y,26.171875,1360.0,Sedentary , little/no exercise,1.2,1632.0,1306,98,18,69,155,Overweight
+HM010,Sudharsan,34,170,70,Male,N,24.22145329,1597.5,Moderately active , little/no exercise,1.55,2476.125,2476,155,35,60,135,Normal
+HM011,Suganthan,27,175,78,Male,Y,25.46938776,1743.75,Moderately active ,exercise 3–5 days/week,1.55,2702.8125,2162,135,30,95,214,Overweight
+HM012,Dharshan,14,164,65,Male,Y,24.1671624,1610.0,Extremely active, very hard training/physical job,1.9,3059.0,2447,214,34,68,154,Under 18
+HM013,Subeth,32,170,68,Male,N,23.52941176,1587.5,Moderately active , little/no exercise,1.55,2460.625,2461,154,34,41,92,Normal
+HM014,Pattu Rajan,97,154,54,Male,N,22.76943835,1022.5,Sedentary , little/no exercise,1.2,1227.0,1227,92,17,32,72,Normal
+HM015,Rajammal,96,150,50,Female,N,22.22222222,796.5,Sedentary , little/no exercise,1.2,955.8,956,72,13,36,81,Normal
+HM016,Valli ammai,73,152,48,Female,N,20.77562327,904.0,Sedentary , little/no exercise,1.2,1084.8,1085,81,15,43,96,Normal
+HM017,Muthaiyan,75,158,45,Male,N,18.02595738,1067.5,Sedentary , little/no exercise,1.2,1281.0,1281,96,18,0,0,Underweight
