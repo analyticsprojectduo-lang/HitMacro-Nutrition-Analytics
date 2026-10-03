@@ -57,7 +57,32 @@ HitMacro-Nutrition-Analytics/
 * Target versus consumed comparisons
 * Interactive Power BI dashboard
 * Data-driven nutrition insights
+## Project Workflow
 
+```text
+Raw Nutrition Data
+        ↓
+     Excel
+Data preparation & initial calculations
+        ↓
+      SQL
+Data querying & analytical analysis
+        ↓
+     Python
+Data processing & analysis
+        ↓
+    Power BI
+Interactive dashboard & visualization
+```
+
+### End-to-End Process
+
+1. **Data Preparation** – Nutrition and user data are organized and prepared for analysis.
+2. **Excel Calculations** – Initial nutrition targets and calculations are performed.
+3. **SQL Analysis** – Data is queried and analyzed using SQL.
+4. **Python Analysis** – Data processing and analytical calculations are performed using Python and Pandas.
+5. **Power BI Visualization** – Processed data is presented through an interactive nutrition analytics dashboard.
+  
 ## Power BI Dashboard
 
 The interactive Power BI dashboard provides a visual comparison of nutrition consumption against personalized targets across:
