@@ -70,6 +70,13 @@ The interactive Power BI dashboard provides a visual comparison of nutrition con
 
 [View HitMacro Power BI Dashboard (PDF)](HitMacro-Nutrition-Analytics/powerbi/Dashboard.pdf)
 
+## Dashboard Highlights
+
+- Nutrition consumed vs daily target
+- Calories, protein, fibre, fat and carbohydrate tracking
+- Dynamic nutrition metric selection
+- Interactive Power BI reporting
+
 ## Data Analysis
 
 The project uses SQL and Python to support data querying, transformation, calculations and analysis of nutrition records.
