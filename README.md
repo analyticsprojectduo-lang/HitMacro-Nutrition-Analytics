@@ -75,6 +75,20 @@ Data processing & analysis
 Interactive dashboard & visualization
 ```
 
+## Key Insights
+
+The analysis focuses on the following nutrition metrics:
+
+* Daily calorie consumption compared with personalized calorie targets
+* Protein intake compared with daily protein targets
+* Fibre intake compared with daily fibre targets
+* Fat intake compared with daily fat targets
+* Carbohydrate intake compared with daily carbohydrate targets
+* User-level nutrition tracking and target analysis
+* Identification of differences between consumed and target nutrition values
+
+The Power BI dashboard provides an interactive view of these metrics to support daily nutrition monitoring.
+
 ### End-to-End Process
 
 1. **Data Preparation** – Nutrition and user data are organized and prepared for analysis.
