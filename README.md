@@ -89,6 +89,54 @@ The analysis focuses on the following nutrition metrics:
 
 The Power BI dashboard provides an interactive view of these metrics to support daily nutrition monitoring.
 
+## Skills Demonstrated
+
+### Data Analysis
+
+* Data cleaning and preparation
+* Exploratory data analysis
+* Aggregation and KPI calculation
+* Nutrition target and consumption analysis
+
+### SQL
+
+* Filtering and sorting
+* Aggregations and `GROUP BY`
+* Joins
+* Conditional logic using `CASE`
+* Analytical queries
+
+### Python
+
+* Pandas
+* CSV data processing
+* Data transformation
+* Calculation and analysis
+
+### Power BI
+
+* Data modeling
+* Table relationships
+* DAX measures
+* Dynamic KPI selection
+* Interactive visualizations
+* Dashboard design
+
+### Excel
+
+* Data preparation
+* Formula-based calculations
+* Nutrition target calculations
+* Daily summary analysis
+
+### Tools
+
+* GitHub
+* VS Code
+* Jupyter Notebook
+* MySQL
+
+
 ### End-to-End Process
 
 1. **Data Preparation** – Nutrition and user data are organized and prepared for analysis.
