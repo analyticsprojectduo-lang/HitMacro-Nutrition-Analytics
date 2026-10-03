@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+hitmacro_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python environment files
+*.egg-info/
+dist/
+build/
+
+# Secrets / credentials
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary/backup files
+*.pbit
