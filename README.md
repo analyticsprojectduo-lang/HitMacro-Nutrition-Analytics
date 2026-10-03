@@ -68,7 +68,7 @@ The interactive Power BI dashboard provides a visual comparison of nutrition con
 * Fat
 * Carbohydrates
 
-[View HitMacro Power BI Dashboard (PDF)](powerbi/Dashboard.pdf)
+[View HitMacro Power BI Dashboard (PDF)](HitMacro-Nutrition-Analytics/powerbi/Dashboard.pdf)
 
 ## Data Analysis
 
